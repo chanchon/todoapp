@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883410456651",
+    "project_id": "cislab-todoapp",
+    "storage_bucket": "cislab-todoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883410456651:android:d6e8ef0f058826125d3dce",
+        "android_client_info": {
+          "package_name": "th.ac.kku.cis.lab.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883410456651-bbnfbucgjvatjshbhgmqfugeng4ndjp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmRkA2p7kLVsyOCx_9Lzyg81ANtwZNS00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883410456651-bbnfbucgjvatjshbhgmqfugeng4ndjp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
